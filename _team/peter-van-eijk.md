@@ -1,10 +1,10 @@
 ---
-title: "Peter Van Eijk"
+title: "Telmo Bárcia Soares"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "images/team/telmo.jpeg"
 jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/telmo-b%C3%A1rcia-soares-3474bb118/"
 promoted: true
 weight: 1
 layout: team

@@ -6,7 +6,7 @@ weight: 4
 layout: service
 ---
 
-Regular payment made into a fund by an employee towards a future pension. arbor palmis, cum quin. Rupes vetat videndo, armigerae
+A combination of two things, especially companies, into one. arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
 ## Ne verba patulosque numen vix libet

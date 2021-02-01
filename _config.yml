@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Tenho Accounting'
+title: 'Telmo Accounting'
 
 google_analytics_id: ""
 homepage:
@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'By <a class="telmo" href="https://www.telmo.io">www.telmo.io</a>'
 
 seo:
   meta_og_title: "Jekyll Serif Theme"
