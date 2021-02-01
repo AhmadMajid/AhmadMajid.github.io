@@ -6,8 +6,7 @@ weight: 3
 layout: service
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
+Business to business sales refers to a sales model where a business is selling its products or services to another business. It's distinct from business‑to‑consumer sales.trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
 petunt dempserat dixisse, pro raptae aut male?

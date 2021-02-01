@@ -6,8 +6,7 @@ weight: 6
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
+Tax preparation is the process of preparing tax returns, often income tax returns, often for a person other than the taxpayer, and generally for compensation. Tax preparation may be done by the taxpayer with or without the help of tax preparation software and online services. Tax preparation may also be done by a licensed professional such as an attorney, certified public accountant or enrolled agent, or by an unlicensed tax preparation business. accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
 Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
 
