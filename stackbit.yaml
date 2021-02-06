@@ -95,6 +95,13 @@ models:
                 name: output
               - type: string
                 name: permalink
+          - type: object
+            name: consult
+            fields:
+              - type: boolean
+                name: output
+              - type: string
+                name: permalink
       - type: object
         name: sass
         label: Sass
