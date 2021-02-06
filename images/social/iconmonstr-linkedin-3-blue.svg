@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="36"
+   height="36"
    style=""
    version="1.1"
    id="svg86"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,7 +47,8 @@
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg86" />
+     inkscape:current-layer="svg86"
+     inkscape:document-rotation="0" />
   <rect
      id="backgroundrect"
      width="100%"
@@ -60,7 +61,7 @@
      class="currentLayer"
      style="fill:#1755aa;fill-opacity:1"
      id="g84"
-     transform="matrix(1.5,0,0,1.5,-6,-6)">
+     transform="matrix(1.5,0,0,1.5,0.11904934,0.11789556)">
     <title
        id="title81">Layer 1</title>
     <path
