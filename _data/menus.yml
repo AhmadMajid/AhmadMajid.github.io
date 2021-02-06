@@ -9,7 +9,7 @@ main:
     url: "/about/"
     weight: 4
   - name: "Consult"
-    url: "/consult/"
+    url: "https://calendly.com/ahmadmajid/book-a-free-consultation?month=2021-02"
     weight: 5
   - name: "Contact"
     url: "/contact/"
